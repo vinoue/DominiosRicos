@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/wpTU5J4E7ELF/zx4OUQhUonXMythM0+Z9UE7sM42DztWvyoogUAgPQXkWbrhwRlu9uQpUuucjnUn3njaxbgGw==",
+  "success": true,
+  "projectFilePath": "E:\\DesenvolvedorIO\\Formações\\Arquiteto de Software\\02-Modelagem de Domínios Ricos\\repos\\NerdStore\\src\\NerdStore.Pagamentos.AntiCorruption\\NerdStore.Pagamentos.AntiCorruption.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitor\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

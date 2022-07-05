@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "54Ovjp+Z1x+Bm2bDrkFOVkdfKRIYjDdzh2AVEd+XRTZCQp9TzbRY548i5CwKGXv1PwSRFeE1XBrrUkwBNSw5lQ==",
+  "success": true,
+  "projectFilePath": "E:\\DesenvolvedorIO\\Formações\\Arquiteto de Software\\02-Modelagem de Domínios Ricos\\repos\\NerdStore\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitor\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

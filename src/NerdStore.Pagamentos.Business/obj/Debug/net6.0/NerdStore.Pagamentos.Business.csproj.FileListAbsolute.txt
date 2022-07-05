@@ -1,0 +1,15 @@
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\net6.0\NerdStore.Pagamentos.Business.deps.json
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\net6.0\NerdStore.Pagamentos.Business.dll
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\net6.0\NerdStore.Pagamentos.Business.pdb
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\net6.0\NerdStore.Core.dll
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\net6.0\NerdStore.Core.pdb
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net6.0\NerdStore.Pagamentos.Business.csproj.AssemblyReference.cache
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net6.0\NerdStore.Pagamentos.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net6.0\NerdStore.Pagamentos.Business.AssemblyInfoInputs.cache
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net6.0\NerdStore.Pagamentos.Business.AssemblyInfo.cs
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net6.0\NerdStore.Pagamentos.Business.csproj.CoreCompileInputs.cache
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net6.0\NerdStore.Pagamentos.Business.csproj.CopyComplete
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net6.0\NerdStore.Pagamentos.Business.dll
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net6.0\refint\NerdStore.Pagamentos.Business.dll
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net6.0\NerdStore.Pagamentos.Business.pdb
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\net6.0\ref\NerdStore.Pagamentos.Business.dll

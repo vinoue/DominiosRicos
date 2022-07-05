@@ -1,0 +1,15 @@
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\EventSourcing\bin\Debug\net6.0\EventSourcing.deps.json
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\EventSourcing\bin\Debug\net6.0\EventSourcing.dll
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\EventSourcing\bin\Debug\net6.0\EventSourcing.pdb
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\EventSourcing\bin\Debug\net6.0\NerdStore.Core.dll
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\EventSourcing\bin\Debug\net6.0\NerdStore.Core.pdb
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\EventSourcing\obj\Debug\net6.0\EventSourcing.csproj.AssemblyReference.cache
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\EventSourcing\obj\Debug\net6.0\EventSourcing.GeneratedMSBuildEditorConfig.editorconfig
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\EventSourcing\obj\Debug\net6.0\EventSourcing.AssemblyInfoInputs.cache
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\EventSourcing\obj\Debug\net6.0\EventSourcing.AssemblyInfo.cs
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\EventSourcing\obj\Debug\net6.0\EventSourcing.csproj.CoreCompileInputs.cache
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\EventSourcing\obj\Debug\net6.0\EventSourcing.csproj.CopyComplete
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\EventSourcing\obj\Debug\net6.0\EventSourcing.dll
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\EventSourcing\obj\Debug\net6.0\refint\EventSourcing.dll
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\EventSourcing\obj\Debug\net6.0\EventSourcing.pdb
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\EventSourcing\obj\Debug\net6.0\ref\EventSourcing.dll

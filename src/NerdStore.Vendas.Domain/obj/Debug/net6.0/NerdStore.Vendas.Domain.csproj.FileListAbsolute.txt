@@ -1,0 +1,15 @@
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Vendas.Domain\bin\Debug\net6.0\NerdStore.Vendas.Domain.deps.json
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Vendas.Domain\bin\Debug\net6.0\NerdStore.Vendas.Domain.dll
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Vendas.Domain\bin\Debug\net6.0\NerdStore.Vendas.Domain.pdb
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Vendas.Domain\bin\Debug\net6.0\NerdStore.Core.dll
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Vendas.Domain\bin\Debug\net6.0\NerdStore.Core.pdb
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\net6.0\NerdStore.Vendas.Domain.csproj.AssemblyReference.cache
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\net6.0\NerdStore.Vendas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\net6.0\NerdStore.Vendas.Domain.AssemblyInfoInputs.cache
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\net6.0\NerdStore.Vendas.Domain.AssemblyInfo.cs
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\net6.0\NerdStore.Vendas.Domain.csproj.CoreCompileInputs.cache
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\net6.0\NerdStore.Vendas.Domain.csproj.CopyComplete
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\net6.0\NerdStore.Vendas.Domain.dll
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\net6.0\refint\NerdStore.Vendas.Domain.dll
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\net6.0\NerdStore.Vendas.Domain.pdb
+E:\DesenvolvedorIO\Formações\Arquiteto de Software\02-Modelagem de Domínios Ricos\repos\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\net6.0\ref\NerdStore.Vendas.Domain.dll
